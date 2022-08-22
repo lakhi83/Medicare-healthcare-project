@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23583" started-at="2022-08-22T21:34:36 NZST" finished-at="2022-08-22T21:34:59 NZST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23583" started-at="2022-08-22T21:34:36 NZST" finished-at="2022-08-22T21:34:59 NZST">
+      <class name="Test.login">
+        <test-method status="PASS" signature="BrowserSetUp()[pri:0, instance:Test.login@1f57539]" name="BrowserSetUp" is-config="true" duration-ms="6932" started-at="2022-08-22T21:34:36 NZST" finished-at="2022-08-22T21:34:43 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetUp -->
+        <test-method status="PASS" signature="loginsetup()[pri:0, instance:Test.login@1f57539]" name="loginsetup" duration-ms="16584" started-at="2022-08-22T21:34:43 NZST" finished-at="2022-08-22T21:34:59 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginsetup -->
+      </class> <!-- Test.login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
